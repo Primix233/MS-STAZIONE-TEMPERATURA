@@ -128,7 +128,7 @@ void loop() {
 
 -----------------------------------------------------------------------------------------------
 
-
+//funzionante
 
 // Lettura DS18B20 su ESP32 senza librerie OneWire/DallasTemperature.
 // Collega DATA del sensore al GPIO 4.
